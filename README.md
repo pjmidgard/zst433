@@ -23,7 +23,7 @@ c; u .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
 
 c2; u2 .bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin.bin
 
-Jurijus Pacalovas have developed a program.
+Jurijus Pacalovas has developed a program.
 
 4.33 v. zst
 
